@@ -18,7 +18,7 @@
 部分内容整理自JavaGuide和这个博主：https://github.com/xzyJavaX/JavaCollege/blob/master/MyBlog.md
 
 
-奥对了，字节内推待入职后可联系我（抖音部门）
+奥对了，字节内推待入职后可联系我（抖音部门），如果那个时候时间充裕的话或许能够帮大家修改修改简历、搞个模拟面试什么的~
 
 微信：sen873591769
 
