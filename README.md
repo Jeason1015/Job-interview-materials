@@ -7,7 +7,7 @@
 还要和大家推荐几个博主：敖丙、小杰爱吃蛋、小刘讲源码
 
 
-部分内容整理自这个博主：https://github.com/xzyJavaX/JavaCollege/blob/master/MyBlog.md
+部分内容整理自JavaGuide和这个博主：https://github.com/xzyJavaX/JavaCollege/blob/master/MyBlog.md
 
 
 奥对了，字节内推待入职后可联系我（抖音部门）
